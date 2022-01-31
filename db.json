@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "id": 1
+    },
+    {
+      "title": "json-server",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "alexpozdnykof@gmail.com",
+      "password": "$2a$10$.JV4XQjjloEvfjU.Z6mJe.bwAUAaWAlFwYfrGsAy2Q8qsAceJdM2q",
+      "firstname": "alex",
+      "lastname": "pozdnyakof",
+      "age": "32",
+      "id": 1
+    }
+  ]
+}
